@@ -8,7 +8,7 @@ public class LoginService {
 
 	public boolean validateUser(String userid, String password) {
 		// in28minutes, dummy
-		System.out.println("---------2");
+		System.out.println("---------3");
 		System.out.println("userid: " + userid);
 		System.out.println("password: " + password);
 		return userid.equalsIgnoreCase("hee")
